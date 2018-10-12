@@ -20,7 +20,8 @@ hi fellas what is up [B]
 
 1. Numbered
 2. List
-
+https://harvecon000.github.io/Rabbidy/Syllabus.md
+https://harvecon000.github.io/Rabbidy/CourseDescription.md
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
